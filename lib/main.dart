@@ -75,7 +75,7 @@ class DownloadManagerScreen extends StatelessWidget {
           final exampleTask = DownloadTask(
             id: DateTime.now().millisecondsSinceEpoch.toString(),
             title: 'The Art of War',
-            url: 'https://digilibraries.com/download/aae18f3d-b5f7-4568-83e9-cb3dd19c8629',
+            url: 'https://aiquest.org/wp-content/uploads/2024/07/Deep-Learning-Generative-AI.pdf',
             filePath: '',
             author: 'W. P. (William Price) Craighill',
             publisher: 'DigiLibraries.com',
